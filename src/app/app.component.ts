@@ -11,4 +11,6 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'angular-jenkins';
   today: number = 0;
+  // add commit b2
+  
 }
