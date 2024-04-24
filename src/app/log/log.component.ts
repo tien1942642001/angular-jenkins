@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './log.component.scss'
 })
 export class LogComponent {
-
+  title: string = 'hello world';
 }
