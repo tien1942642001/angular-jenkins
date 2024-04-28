@@ -9,4 +9,5 @@ import { Component } from '@angular/core';
 })
 export class LogComponent {
  newMoto:string = 'nvx 155 vva';
+  title: string = 'hello world';
 }
