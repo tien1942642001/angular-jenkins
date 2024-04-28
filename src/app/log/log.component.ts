@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './log.component.scss'
 })
 export class LogComponent {
-
+ newMoto:string = 'nvx 155 vva';
 }
