@@ -19,4 +19,5 @@ export class LogComponent {
 
   // git stash
   // commit A
+  // commit B
 }
