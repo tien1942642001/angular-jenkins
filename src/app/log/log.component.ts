@@ -16,4 +16,7 @@ export class LogComponent {
     this.cars.push('yamaha');
   }
   // this is staging area
+
+  // git stash
+  // commit A
 }
