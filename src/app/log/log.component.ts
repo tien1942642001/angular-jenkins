@@ -8,6 +8,12 @@ import { Component } from '@angular/core';
   styleUrl: './log.component.scss'
 })
 export class LogComponent {
- newMoto:string = 'nvx 155 vva';
+  newMoto: string = 'nvx 155 vva';
   title: string = 'hello world';
+  cars:any = [];
+
+  public add(){
+    this.cars.push('yamaha');
+  }
+  // this is staging area
 }
